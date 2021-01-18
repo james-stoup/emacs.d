@@ -1,0 +1,174 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jstoup/repos/slamr-backup-restore-service/config/" . "environments/")
+ ("/home/jstoup/repos/slamr-backup-restore-service/" . "config/")
+ ("/home/jstoup/repos/slamr-component-template-manager/config/" . "environments/")
+ ("/home/jstoup/repos/slamr-component-template-manager/" . "config/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/" . "manager/")
+ ("/home/jstoup/" . "repos/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/manager/" . "operations/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/" . "virtual_device/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/" . "core/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/" . "slamr/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/manager/" . "operations/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/" . "manager/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/" . "virtual_device/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/" . "cybercents/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/" . "slamr/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/virtual_device/" . "manager/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/" . "virtual_device/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/" . "manager/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/" . "operations/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/" . "lib/")
+ ("/home/jstoup/.emacs.d/lisp/" . "emacs-solargraph/")
+ ("/home/jstoup/.emacs.d/" . "lisp/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/" . "virtual_device/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/" . "core/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/" . "slamr/")
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/" . "cybercents/")
+ ("/home/jstoup/repos/" . "slamr-backup-restore-service/")
+ ("/home/" . "jstoup/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/operations/"
+ "/home/jstoup/tcs/coding-exercise/"
+ "/home/jstoup/repos/slamr-backup-restore-service/config/environments/"
+ "/home/jstoup/repos/slamr-component-template-manager/config/environments/"
+ "/home/jstoup/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/manager/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/"
+ "/home/jstoup/tcs/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/manager/operations/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/manager/operations/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/tests/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/virtual_device/manager/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec.old/"
+ "/home/jstoup/repos/slamr-virtual-device-manager/spec/"
+ "/home/jstoup/repos/slamr-project-manager/"
+ "/home/jstoup/.emacs.d/lisp/emacs-solargraph/"
+ "/home/jstoup/.emacs.d/emacs-solargraph/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "operation_job.rb"
+ "snapshot.rb"
+ "README.md"
+ "messageboard.json"
+ "development.yml"
+ ".emacs"
+ "core_spec.rb"
+ "core.rb"
+ "manager.rb"
+ "operation_job_spec.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/operations/" (24577 59582 461441 657000) "./" "snapshots/" "virtual_device.rb" "remote_desktop.rb" "snapshot.rb" "operation_job.rb" "../" "batch.rb" "network_interface.rb" "disk_image.rb" "echo.rb")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/" (24573 512 309001 170000) "./" "../" "amqp/" "core.rb" "utility/" "database/" "operations/" "version.rb" "error/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/database/" (24577 46197 796182 407000) "./" "models/" "migrations/" "schema.rb" "../" "controllers/" "connection.rb" "models_old/" "db_controller.rb")
+
+ ("/home/jstoup/tcs/coding-exercise/" (24577 54138 183962 153000) "./" ".git/" "Makefile" "src/" "statistics.py" "../" "README.md" "Pipfile" ".gitignore" "requirements.txt" "messageboard.json")
+
+ ("/home/jstoup/repos/slamr-backup-restore-service/config/environments/" (24481 25767 214504 455000) "./" "production.yml" "../" "testing.yml" "development.yml")
+
+ ("/home/jstoup/repos/slamr-backup-restore-service/config/" (24481 25767 214504 455000) "./" "slamr-backup-restore-service.service" "../" "environments/" "settings.yml")
+
+ ("/home/jstoup/repos/slamr-backup-restore-service/" (24481 25772 518500 373000) "./" ".git/" "spec/" ".rake_tasks~" "Gemfile" ".bundle/" "vendor/" "Rakefile" "pipeline/" "../" "config/" ".rspec_status" "README.md" ".idea/" ".gitignore" "lib/" "Gemfile.lock" "test.log" ".rspec" "exe/" "coverage/" "slamr-backup-restore-service.gemspec" "bin/" "Jenkinsfile")
+
+ ("/home/jstoup/repos/" (24575 14352 212706 438000) "./" "slamr-virtual-device-manager/" "slamr-rabbit-core/" "vdm/" "slamr-infrastructure-manager/" "slamr-traffic-manager/" "../" "slamr-project-manager/" "slamr-infrastructure-manager-agent/" "slamr-virtual-device-agent/" "slamr-backup-restore-service/" "cybercents-management/" "slamr-domain-manager/" "slamr-api-gateway/" "slamr-network-manager/" "old/" "slamr-project-designer-web/" "slamr-authentication-service/" "slamr-monitoring-agent/" "dev_tools/" "slamr-device-template-manager/" "slamr-rabbitmq-core/" "slamr-ansible-service/" "slamr-component-template-manager/" "slamr-orchestration-service/")
+
+ ("/home/jstoup/repos/slamr-orchestration-service/" (24576 27210 499313 467000) "./" ".git/" "spec/" "Gemfile" ".rspec_parallel" ".codacy.yml" "vendor/" "Rakefile" "../" "LICENSE.txt" "config/" ".nova/" ".vscode/" "README.md" "slamr-orchestration-service.gemspec" ".rubocop.yml" ".ruby-version" ".idea/" ".gitignore" ".travis.yml" "lib/" "Gemfile.lock" ".simplecov" ".rspec" "exe/" "bin/" "CODE_OF_CONDUCT.md" "Jenkinsfile")
+
+ ("/home/jstoup/repos/slamr-orchestration-service/config/" (24462 63308 222772 468000) "./" "slamr-orchestration-service.service" "../" "environments/" "settings.yml")
+
+ ("/home/jstoup/repos/slamr-orchestration-service/config/environments/" (24567 48745 559453 450000) "./" "production.yml" "../" "testing.yml" "development.yml")
+
+ ("/home/jstoup/repos/slamr-component-template-manager/config/environments/" (24568 36127 227917 963000) "./" "production.yml" "local.yml" "../" "testing.yml" "ci.yml" "development.yml")
+
+ ("/home/jstoup/repos/slamr-component-template-manager/config/" (24458 60319 858333 798000) "./" "../" "environments/" "settings.yml" "slamr-component-template-manager.service")
+
+ ("/home/jstoup/repos/slamr-component-template-manager/" (24568 36069 31315 962000) "./" ".git/" "spec/" "Gemfile" ".codacy.yml" "Rakefile" "test/" "../" "config/" ".vscode/" "README.md" "component_template_manager.gemspec" ".rubocop.yml" ".ruby-version" ".idea/" ".rspec_parellel" ".gitignore" "lib/" "Gemfile.lock" ".simplecov" "log/" ".rspec" "exe/" "bin/" "Jenkinsfile")
+
+ ("/home/jstoup/repos/slamr-traffic-manager/" (24575 1394 487336 974000) "./" "slamr-traffic-manager.gemspec" ".git/" "spec/" "Gemfile" "vendor/" "Rakefile" "../" "config/" "README.md" ".gitignore" ".travis.yml" "lib/" ".rspec" "exe/" "bin/" "CODE_OF_CONDUCT.md" "Jenkinsfile" "Dockerfile")
+
+ ("/home/jstoup/repos/slamr-traffic-manager/config/" (24575 1394 275358 665000) "./" "../" "environments/" "settings.yml" "slamr-traffic-manager.service")
+
+ ("/home/jstoup/repos/slamr-traffic-manager/config/environments/" (24575 1394 275358 665000) "./" "production.yml" "../" "testing.yml" "development.yml")
+
+ ("/home/jstoup/" (24572 49318 567108 882000) "./" ".emacs.d/" ".local/" ".gitconfig~" ".rvm/" "Pictures/" ".gnupg/" "backup-notes.txt" ".vboxclient-clipboard.pid" ".ssh/" "Videos/" ".pki/" "git-hooks/" ".cache/" ".rvmrc" ".gitconfig" ".bundle/" ".githooks/" ".profile" "Postman/" ".gnome/" ".vboxclient-display-svga-x11.pid" ".kde/" ".vboxclient-seamless.pid" ".xsession-errors" ".vboxclient-draganddrop.pid" ".bashrc" "../" ".icons/" "Public/" ".bash_history" ".emacs~" "aaron_notes.txt" "Music/" ".themes/" "JetBrains/" "plantuml.jar" "1/" "Documents/" ".dmrc" ".npm/" ".xsession-errors.old" "tools/" ".bash_logout" ".bashrc~" "Downloads/" "test_code/" ".mozilla/" "Templates/" ".python_history" ".bash_profile" ".gitignore_global~" ".lesshst" ".erlang.cookie" "backup/" "tcs/" ".java/" ".emacs" ".Xauthority" "Desktop/" ".gitconfig.bak" ".sudo_as_admin_successful" "bin/" ".gitignore_global" ".ICEauthority" "commit-msg" ".config/" "repos/" ".gem/" "dot-emacs" ".pyenv/" "examples.desktop")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/manager/operations/" (24566 23892 221451 14000) "./" "echo_spec.rb" "../")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/" (24566 25103 168371 527000) "./" "manager_spec.rb" "../" "manager/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/" (24566 25191 864271 703000) "./" "cybercents/" "examples.txt" "../" "spec_helper.rb")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/" (24566 10237 497498 387000) "./" "../" "manager/" "manager.rb")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/" (24566 22878 533986 346000) "./" "cybercents/" "../" "tasks/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-agent/" (24554 21105 266122 607000) "./" "MANIFEST.in" "docs/" ".git/" "branchcheck" "setup.py" "examples/" "setup.cfg" "pytest.ini" ".codacy.yml" "Pipfile.lock" "pipeline/" "../" "install/" "integration/" ".coveragerc" "Pipfile" ".idea/" ".pytest_cache/" ".gitignore" "slamr_vda/" ".prospector.yml" "tox.ini" "convert/" "tests/" "README.rst" "LICENSE" "Jenkinsfile")
+
+ ("/home/jstoup/tcs/" (24566 22727 629887 525000) "./" "andrew_test_output.txt" "list-to-fix.txt~" "operation_job_spec.rb" "vendor/" "routers-again/" "spec_helper.rb.orig" "../" "spec.old/" "routers-2/" "list-to-fix.txt" "junk/" "BR_route_list.txt~" "dev-file-notes.txt" "vendor_newish/" "Gemfile.lock" "slamr-logs.tgz" "BR_route_list.txt" "dev-file-notes.txt~" "Gemfile.lock.bak" "routers/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/virtual_device/manager/" (24566 22894 713992 69000) "./" "../" "amqp/" "utility/" "database/" "operations/" "error/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/core/" (24566 22894 713992 69000) "./" "../" "virtual_device/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/slamr/" (24566 22894 713992 69000) "./" "../" "core/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/cybercents/" (24566 22894 713992 69000) "./" "../" "slamr/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/virtual_device/manager/" (24566 22376 257202 818000) "./" "manager_spec.rb" "../" "rabbitmq/" "database/" "factories/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/manager/operations/" (24566 9620 921857 357000) "./" "echo_spec.rb" "../")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/manager/" (24566 9376 172488 256000) "./" "../" "operations/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/virtual_device/" (24566 9352 668452 864000) "./" "../" "manager/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/slamr/" (24566 9352 668452 864000) "./" "../" "virtual_device/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec/tests/" (24566 9152 948152 503000) "./" "echo_spec.rb" "../" "#echo_spec.rb#")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/" (24566 8534 187228 666000) "./" ".git/" "spec/" "Gemfile" "vendor/" "Rakefile" "pipeline/" "../" "config/" "spec.old/" "README.md" "slamr-virtual-device-manager.gemspec" ".rubocop.yml" "service/" ".idea/" ".gitignore" "lib/" "Gemfile.lock" ".rspec" "exe/" "logs/" "bin/" "Jenkinsfile")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/virtual_device/" (24565 9025 356709 216000) "./" "../" "manager/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/slamr/" (24565 9025 356709 216000) "./" "../" "virtual_device/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/spec.old/" (24565 9288 288808 127000) "./" "../" "spec_helper.rb" "slamr/" "log_helper.rb")
+
+ ("/home/jstoup/repos/slamr-project-manager/" (24443 12769 661673 283000) "./" ".git/" "spec/" "Gemfile" ".rspec_parallel" ".bundle/" "Rakefile" "../" "config/" ".vscode/" "README.md" ".rubocop.yml" ".idea/" "slamr_project_manager.gemspec" ".gitignore" "lib/" "Gemfile.lock" ".simplecov" ".rspec" "exe/" "coverage/" "bin/" "Jenkinsfile")
+
+ ("/home/jstoup/.emacs.d/lisp/emacs-solargraph/" (24564 45641 47160 245000) "./" "solargraph.el" ".git/" "plan.sh" "Gemfile" "../" "README.md" "ac-solargraph.el" "emacs-solargraph-sample.gemspec" ".solargraph.yml" ".gitignore" "lib/" "Gemfile.lock" "plan.sh.lock")
+
+ ("/home/jstoup/.emacs.d/lisp/" (24564 46502 480692 136000) "./" "../" "emacs-solargraph/")
+
+ ("/home/jstoup/.emacs.d/" (24564 46619 707248 527000) "./" "lisp/" "ido.last" "ac-comphist.dat" "snippets/" "places" "backups/" "elpa/" "custom.el" "auto-save-list/" "../" "elpy/" ".python-environments/" "transient/")
+
+ ("/home/jstoup/.emacs.d/emacs-solargraph/" (24564 45641 47160 245000) "./" "solargraph.el" ".git/" "plan.sh" "Gemfile" "../" "README.md" "ac-solargraph.el" "emacs-solargraph-sample.gemspec" ".solargraph.yml" ".gitignore" "lib/" "Gemfile.lock" "plan.sh.lock")
+
+ ("/home/" (24418 23384 244980 648000) "./" "linuxbrew/" "../" "jstoup/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/" (24443 27392 599796 675000) "./" "../" "slamr/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/" (24443 27392 599796 675000) "./" "../" "core/")
+
+ ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/" (24539 27495 296834 329000) "./" "../" "virtual_device/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

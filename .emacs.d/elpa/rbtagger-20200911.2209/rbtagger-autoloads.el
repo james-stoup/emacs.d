@@ -1,12 +1,10 @@
 ;;; rbtagger-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "rbtagger" "rbtagger.el" (0 0 0 0))
+;;;### (autoloads nil "rbtagger" "rbtagger.el" (24429 64281 404879
+;;;;;;  320000))
 ;;; Generated autoloads from rbtagger.el
 
 (autoload 'rbtagger-find-definitions "rbtagger" "\
@@ -43,11 +41,10 @@ Tag management for Ruby files.
 
 \(fn &optional ARG)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "rbtagger" '("rbtagger-")))
-
 ;;;***
 
-;;;### (autoloads nil nil ("rbtagger-pkg.el") (0 0 0 0))
+;;;### (autoloads nil nil ("rbtagger-pkg.el") (24429 64281 392879
+;;;;;;  288000))
 
 ;;;***
 
@@ -55,6 +52,5 @@ Tag management for Ruby files.
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; rbtagger-autoloads.el ends here

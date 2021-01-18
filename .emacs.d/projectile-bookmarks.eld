@@ -1,0 +1,1 @@
+("~/repos/slamr-virtual-device-manager/")

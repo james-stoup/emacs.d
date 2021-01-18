@@ -1,13 +1,10 @@
 ;;; flycheck-plantuml-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
 ;;;### (autoloads nil "flycheck-plantuml" "flycheck-plantuml.el"
-;;;;;;  (0 0 0 0))
+;;;;;;  (24522 17431 823900 203000))
 ;;; Generated autoloads from flycheck-plantuml.el
 
 (autoload 'flycheck-plantuml-setup "flycheck-plantuml" "\
@@ -23,6 +20,5 @@ Add `plantuml' to `flycheck-checkers'.
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; flycheck-plantuml-autoloads.el ends here

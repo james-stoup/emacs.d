@@ -1,12 +1,10 @@
 ;;; format-all-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "format-all" "format-all.el" (0 0 0 0))
+;;;### (autoloads nil "format-all" "format-all.el" (24557 64868 211789
+;;;;;;  171000))
 ;;; Generated autoloads from format-all.el
 
 (autoload 'format-all-buffer "format-all" "\
@@ -62,14 +60,11 @@ or zero, and enabled otherwise.
 
 \(fn &optional ARG)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "format-all" '("fish-indent" "fprettify" "format-all-" "yapf" "terraform-fmt" "scalafmt" "shfmt" "snakefmt" "sqlformat" "swiftformat" "rufo" "rustfmt" "perltidy" "pgformatter" "prettier" "purty" "ocp-indent" "nixfmt" "mix-format" "latexindent" "ledger-mode" "lua-fmt" "ktlint" "jsonnetfmt" "istyle-verilog" "hindent" "html-tidy" "gleam" "elm-format" "emacs-lisp" "define-format-all-formatter" "dartfmt" "dfmt" "dhall" "dockfmt" "cabal-fmt" "cmake-format" "crystal" "beautysh" "bibtex-mode" "black" "brittany" "bsrefmt" "buildifier" "asmfmt" "atsfmt")))
-
 ;;;***
 
 ;; Local Variables:
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; format-all-autoloads.el ends here

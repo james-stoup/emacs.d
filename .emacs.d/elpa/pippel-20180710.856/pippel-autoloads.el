@@ -1,12 +1,9 @@
 ;;; pippel-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "pippel" "pippel.el" (0 0 0 0))
+;;;### (autoloads nil "pippel" "pippel.el" (24498 33379 640201 673000))
 ;;; Generated autoloads from pippel.el
 
 (autoload 'pippel-install-package "pippel" "\
@@ -19,11 +16,9 @@ Display a list of installed packages.
 
 \(fn)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "pippel" '("pippel-")))
-
 ;;;***
 
-;;;### (autoloads nil nil ("pippel-pkg.el") (0 0 0 0))
+;;;### (autoloads nil nil ("pippel-pkg.el") (24498 33379 644201 682000))
 
 ;;;***
 
@@ -31,6 +26,5 @@ Display a list of installed packages.
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; pippel-autoloads.el ends here

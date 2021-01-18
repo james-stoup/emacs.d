@@ -1,12 +1,10 @@
 ;;; indent-tools-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "indent-tools" "indent-tools.el" (0 0 0 0))
+;;;### (autoloads nil "indent-tools" "indent-tools.el" (24480 26430
+;;;;;;  66205 681000))
 ;;; Generated autoloads from indent-tools.el
 
 (autoload 'indent-tools-minor-mode "indent-tools" "\
@@ -16,19 +14,10 @@ Navigate, indent and act on blocks delemited by their indentation level.
 
 \(fn &optional ARG)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "indent-tools" '("indent-tools-" "hydra-indent-tools")))
-
 ;;;***
 
-;;;### (autoloads nil "indent-tools-indentation-of" "indent-tools-indentation-of.el"
-;;;;;;  (0 0 0 0))
-;;; Generated autoloads from indent-tools-indentation-of.el
-
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "indent-tools-indentation-of" '("indent-tools-indentation-of")))
-
-;;;***
-
-;;;### (autoloads nil nil ("indent-tools-pkg.el") (0 0 0 0))
+;;;### (autoloads nil nil ("indent-tools-indentation-of.el" "indent-tools-pkg.el")
+;;;;;;  (24480 26430 70205 677000))
 
 ;;;***
 
@@ -36,6 +25,5 @@ Navigate, indent and act on blocks delemited by their indentation level.
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; indent-tools-autoloads.el ends here

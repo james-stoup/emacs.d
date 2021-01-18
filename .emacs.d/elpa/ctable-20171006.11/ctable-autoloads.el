@@ -1,15 +1,9 @@
 ;;; ctable-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "ctable" "ctable.el" (0 0 0 0))
-;;; Generated autoloads from ctable.el
-
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "ctable" '("ctbl:")))
+;;;### (autoloads nil nil ("ctable.el") (24498 33381 916207 175000))
 
 ;;;***
 
@@ -17,6 +11,5 @@
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; ctable-autoloads.el ends here

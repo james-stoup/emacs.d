@@ -1,12 +1,10 @@
 ;;; python-mode-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "python-mode" "python-mode.el" (0 0 0 0))
+;;;### (autoloads nil "python-mode" "python-mode.el" (24557 64865
+;;;;;;  471786 154000))
 ;;; Generated autoloads from python-mode.el
 
 (autoload 'py-backward-class-bol "python-mode" "\
@@ -96,11 +94,10 @@ See available customizations listed in files variables-python-mode at directory 
 
 \(fn)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "python-mode" '("pdb-track-stack-from-shell-p" "pep8" "pst-here" "pps-emacs-version" "autopair-mode" "all-mode-setting" "info-lookup-mode" "ipy" "iyp" "Python" "IPython" "Ipython" "jython" "virtualenv-" "force-py-shell-name-p-o" "flake8" "toggle-" "turn-o" "highlight-indent-active" "hs-hide-comments-when-hiding-all" "strip-chars-")))
-
 ;;;***
 
-;;;### (autoloads nil nil ("python-mode-pkg.el") (0 0 0 0))
+;;;### (autoloads nil nil ("python-mode-pkg.el") (24557 64865 463786
+;;;;;;  145000))
 
 ;;;***
 
@@ -108,6 +105,5 @@ See available customizations listed in files variables-python-mode at directory 
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; python-mode-autoloads.el ends here

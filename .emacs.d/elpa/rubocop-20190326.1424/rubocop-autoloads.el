@@ -1,12 +1,10 @@
 ;;; rubocop-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "rubocop" "rubocop.el" (0 0 0 0))
+;;;### (autoloads nil "rubocop" "rubocop.el" (24429 64280 892877
+;;;;;;  936000))
 ;;; Generated autoloads from rubocop.el
 
 (autoload 'rubocop-check-project "rubocop" "\
@@ -46,14 +44,11 @@ Minor mode to interface with RuboCop.
 
 \(fn &optional ARG)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "rubocop" '("rubocop-")))
-
 ;;;***
 
 ;; Local Variables:
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; rubocop-autoloads.el ends here

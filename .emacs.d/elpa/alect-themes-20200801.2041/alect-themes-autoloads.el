@@ -1,12 +1,10 @@
 ;;; alect-themes-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-
-(add-to-list 'load-path (directory-file-name
-                         (or (file-name-directory #$) (car load-path))))
-
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "alect-themes" "alect-themes.el" (0 0 0 0))
+;;;### (autoloads nil "alect-themes" "alect-themes.el" (24557 64831
+;;;;;;  975748 903000))
 ;;; Generated autoloads from alect-themes.el
 
 (autoload 'alect-generate-colors "alect-themes" "\
@@ -22,13 +20,12 @@ values should be in matching order).
 
 (and load-file-name (boundp 'custom-theme-load-path) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "alect-themes" '("alect-")))
-
 ;;;***
 
 ;;;### (autoloads nil nil ("alect-black-alt-theme.el" "alect-black-theme.el"
 ;;;;;;  "alect-dark-alt-theme.el" "alect-dark-theme.el" "alect-light-alt-theme.el"
-;;;;;;  "alect-light-theme.el" "alect-themes-pkg.el") (0 0 0 0))
+;;;;;;  "alect-light-theme.el" "alect-themes-pkg.el") (24557 64831
+;;;;;;  987748 916000))
 
 ;;;***
 
@@ -36,6 +33,5 @@ values should be in matching order).
 ;; version-control: never
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
-;; coding: utf-8
 ;; End:
 ;;; alect-themes-autoloads.el ends here
