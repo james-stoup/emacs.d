@@ -1,1 +1,1 @@
-("~/.homesick/repos/dotfiles/" "~/.homesick/repos/emacs.d/")
+("~/.homesick/repos/emacs.d/" "~/.homesick/repos/dotfiles/")
