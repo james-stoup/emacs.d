@@ -1,0 +1,38 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/breezy/python_projects/nfl/" . "draft_order_analyzer/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/breezy/python_projects/nfl/draft_order_analyzer/"
+ "/home/breezy/python_projects/nfl/draft_order_analyzer/src/"
+ "/home/breezy/python_projects/nfl/draft_order_analyzer/src/database/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "espn_league_data.json"
+ "scrape_espn_data.py"
+ "requirements.txt"
+ "valid_league_data.json"
+ "setup_db.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/breezy/.homesick/repos/dotfiles/home/" (24598 57946 487099 360000) ".gitignore_global" ".bashrc" "../" ".emacs~" ".bashrc~" ".emacs" "./" ".gitconfig")
+
+ ("/home/breezy/python_projects/nfl/draft_order_analyzer/src/database/" (24571 50026 909910 719000) "espn_league.py~" "__init__.py" "../" "espn_league.py" "setup_db.py" "./" "__pycache__/")
+
+ ("/home/breezy/python_projects/nfl/draft_order_analyzer/src/" (24571 48052 351201 722000) "database/" "vld.json" "__init__.py" "plot_data.py" "espn_accounts_data.json" "main.py" "../" "espn_requests.py" "scrape_espn_data.py" "rest_calls.py" "./" "__pycache__/")
+
+ ("/home/breezy/python_projects/nfl/" (24559 61038 864031 636000) "../" "espn-api/" "draft_order_analyzer/" "./")
+
+ ("/home/breezy/python_projects/nfl/draft_order_analyzer/" (24561 8425 107393 365000) "requirements.txt" "__init__.py" "league_data/" "Pipfile" ".git/" "../" "sanitizer.py" "LICENSE" "README.md" "setup.py" "./" "src/" "__pycache__/" "Pipfile.lock" "valid_league_data.json")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
