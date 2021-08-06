@@ -73,6 +73,8 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/jstoup/repos/slamr-network-manager/" (24651 28300 550 22000) "./" ".git/" "spec/" "Gemfile" "vendor/" "Rakefile" ".yardopts" "pipeline/" "../" "config/" "slamr-network-manager.gemspec" "README.md" ".rubocop.yml" ".idea/" ".gitignore" ".travis.yml" "lib/" "Gemfile.lock" ".rspec" "exe/" "coverage/" "bin/" "Jenkinsfile")
+
  ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/operations/" (24577 59582 461441 657000) "./" "snapshots/" "virtual_device.rb" "remote_desktop.rb" "snapshot.rb" "operation_job.rb" "../" "batch.rb" "network_interface.rb" "disk_image.rb" "echo.rb")
 
  ("/home/jstoup/repos/slamr-virtual-device-manager/lib/cybercents/slamr/core/virtual_device/manager/" (24573 512 309001 170000) "./" "../" "amqp/" "core.rb" "utility/" "database/" "operations/" "version.rb" "error/")
