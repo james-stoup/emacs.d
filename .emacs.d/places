@@ -1,8 +1,8 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/jstoup/.emacs.d/elpa/pipenv-20210127.1444/pipenv-autoloads.el" . 725)
+(("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/misc/service_backup_mixin.rb" . 6616)
+ ("/home/jstoup/.homesick/repos/dotfiles/home/.emacs" . 11344)
+ ("/home/jstoup/.emacs.d/elpa/pipenv-20210127.1444/pipenv-autoloads.el" . 725)
  ("/home/jstoup/tcs/junk/file_copy_test.rb" . 173)
- ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/misc/service_backup_mixin.rb" . 5427)
- ("/home/jstoup/.homesick/repos/dotfiles/home/.emacs" . 1072)
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/routes/backup/backup_routes.rb" . 1496)
  ("/home/jstoup/.emacs.d/elpa/treemacs-20210726.1955/treemacs-autoloads.el" . 20304)
  ("/home/jstoup/.emacs.d/elpa/treemacs-all-the-icons-20210408.2051/treemacs-all-the-icons-autoloads.el" . 505)
