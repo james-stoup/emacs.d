@@ -54,7 +54,7 @@ static char *gnus-pointer[] = {
  '(highlight-tail-colors '(("#F8BBD0" . 0) ("#FAFAFA" . 100)))
  '(inhibit-startup-screen t)
  '(package-selected-packages
-   '(pipenv 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package yaml-mode yaml-tomato yard-mode))
+   '(tramp 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode projectile pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package which-key yaml-mode yaml-tomato yard-mode))
  '(pos-tip-background-color "#ffffff")
  '(pos-tip-foreground-color "#78909C")
  '(show-paren-mode t)
@@ -86,4 +86,4 @@ static char *gnus-pointer[] = {
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:family "Source Code Pro" :foundry "ADBO" :slant normal :weight normal :height 113 :width normal)))))
+ )

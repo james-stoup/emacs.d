@@ -1,0 +1,2 @@
+;;; Generated package description from /home/jstoup/.emacs.d/elpa/hybrid-reverse-theme-20210630.1155/hybrid-reverse-theme.el  -*- no-byte-compile: t -*-
+(define-package "hybrid-reverse-theme" "20210630.1155" "Emacs theme with material color scheme" '((emacs "24.1")) :commit "e59c8392938235ca8d95306aa1c3f1591a43fb45" :authors '(("Riyyi")) :maintainer '("Riyyi") :keywords '("faces" "theme") :url "https://github.com/riyyi/emacs-hybrid-reverse")
