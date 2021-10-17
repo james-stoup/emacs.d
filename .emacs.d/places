@@ -1,11 +1,22 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/breezy/.emacs.d/elpa/org-9.5/org-loaddefs.el" . 121325)
+(("/home/breezy/Videos/downloaded_videos/Hell.or.High.Water.2016.1080p.BluRay.x265-RARBG/RARBG_DO_NOT_MIRROR.exe" . 100)
+ ("/home/breezy/Documents/org-docs/todo.org" . 278)
+ ("/home/breezy/.homesick/repos/dotfiles/home/.emacs" . 10170)
+ ("/home/breezy/Documents/org-docs/wood-projects.org" . 58)
+ ("/home/breezy/Documents/org-docs/personal.org" . 49)
+ ("/home/breezy/Documents/org-docs/code-projects.org" . 92)
+ ("/home/breezy/Documents/org-docs/family.org" . 95)
+ ("/home/breezy/Documents/org-docs/house.org" . 42)
+ ("/home/breezy/"
+  (dired-filename . "/home/breezy/.alienblaster"))
+ ("/home/breezy/.homesick/repos/dotfiles/home/.tmux.conf" . 100)
+ ("/home/breezy/.tmux/"
+  (dired-filename . "/home/breezy/.tmux/bin"))
+ ("/home/breezy/.emacs.d/elpa/org-9.5/org-loaddefs.el" . 121325)
  ("/home/breezy/.emacs.d/elpa/org-9.5/org-autoloads.el" . 52470)
  ("/home/breezy/.emacs.d/elpa/org-ac-20170401.1307/org-ac-autoloads.el" . 616)
  ("/home/breezy/.emacs.d/elpa/auto-complete-pcmp-20140227.651/auto-complete-pcmp-autoloads.el" . 466)
  ("/home/breezy/.emacs.d/elpa/log4e-20200420.745/log4e-autoloads.el" . 669)
  ("/home/breezy/.emacs.d/elpa/yaxception-20150105.1452/yaxception-autoloads.el" . 421)
  ("/home/breezy/.emacs.d/elpa/org-analyzer-20191001.1717/org-analyzer-autoloads.el" . 582)
- ("/home/breezy/Documents/personal/best-trump-rant.txt" . 9367)
- ("/home/breezy/"
-  (dired-filename . "/home/breezy/.alienblaster")))
+ ("/home/breezy/Documents/personal/best-trump-rant.txt" . 9367))
