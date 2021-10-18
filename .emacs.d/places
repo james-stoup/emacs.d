@@ -1,5 +1,7 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/jstoup/org/todos.org" . 324)
+(("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/routes/backup/backup_controller/backup_start_controller.rb" . 10664)
+ ("/home/jstoup/.config/monitors.xml" . 705)
+ ("/home/jstoup/org/todos.org" . 324)
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/helpers/activity_helpers.rb" . 2071)
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/helpers/infrastructure_manager_mixin.rb" . 5303)
  ("/home/jstoup/repos/slamr-backup-restore-service/spec/cybercents/slamr/core/backuprestore/service/amqp/routes/backup/backup_controller/backup_start_controller_spec.rb" . 2941)
@@ -12,7 +14,6 @@
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/core.rb" . 6625)
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/utility/master_manifest_mixin.rb" . 2502)
  ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/routes/backup/backup_complete_listener.rb" . 3123)
- ("/home/jstoup/repos/slamr-backup-restore-service/lib/cybercents/slamr/core/backuprestore/service/amqp/routes/backup/backup_controller/backup_start_controller.rb" . 10664)
  ("/home/jstoup/org/work-log.org" . 32027)
  ("/home/jstoup/.homesick/repos/dotfiles/home/.emacs" . 10701)
  ("/home/jstoup/repos/slamr-infrastructure-manager/config/environments/production.yml" . 463)
