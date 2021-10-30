@@ -1,0 +1,2 @@
+;;; Generated package description from /home/jstoup/.emacs.d/elpa/eldoc-box-20210608.2202/eldoc-box.el  -*- no-byte-compile: t -*-
+(define-package "eldoc-box" "20210608.2202" "Display documentation in childframe" '((emacs "26.1")) :commit "13d207d40863a041b84c34f075668c7931db5a78" :authors '(("Sebastien Chapuis" . "sebastien@chapu.is")) :maintainer '("Yuan Fu" . "casouri@gmail.com") :url "https://github.com/casouri/eldoc-box")

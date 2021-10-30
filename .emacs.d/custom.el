@@ -26,7 +26,7 @@
  '(flycheck-color-mode-line-face-to-color 'mode-line-buffer-id)
  '(frame-background-mode 'light)
  '(global-company-mode t)
- '(gnus-logo-colors '("#528d8d" "#c0c0c0"))
+ '(gnus-logo-colors '("#528d8d" "#c0c0c0") t)
  '(gnus-mode-line-image-cache
    '(image :type xpm :ascent center :data "/* XPM */
 static char *gnus-pointer[] = {
@@ -48,7 +48,7 @@ static char *gnus-pointer[] = {
 \"######..###.######\",
 \"###....####.######\",
 \"###..######.######\",
-\"###########.######\" };"))
+\"###########.######\" };") t)
  '(highlight-indent-guides-auto-enabled nil)
  '(highlight-symbol-colors
    '("#F57F17" "#66BB6A" "#0097A7" "#42A5F5" "#7E57C2" "#D84315"))
@@ -56,8 +56,9 @@ static char *gnus-pointer[] = {
  '(highlight-tail-colors '(("#F8BBD0" . 0) ("#FAFAFA" . 100)))
  '(hl-sexp-background-color "#efebe9")
  '(inhibit-startup-screen t)
+ '(org-tags-column -60)
  '(package-selected-packages
-   '(ruby-refactor manage-minor-mode-table helm-lsp doom-modeline nimbus-theme 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode projectile pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package which-key yaml-mode yaml-tomato yard-mode))
+   '(eldoc-box comment-tags ruby-refactor manage-minor-mode-table helm-lsp doom-modeline nimbus-theme 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode projectile pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package which-key yaml-mode yaml-tomato yard-mode))
  '(pos-tip-background-color "#ffffff")
  '(pos-tip-foreground-color "#78909C")
  '(show-paren-mode t)
@@ -89,4 +90,12 @@ static char *gnus-pointer[] = {
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- )
+ '(org-document-title ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif" :height 2.0 :underline nil))))
+ '(org-level-1 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif" :height 1.5))))
+ '(org-level-2 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif" :height 1.2))))
+ '(org-level-3 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif" :height 1.0))))
+ '(org-level-4 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif" :height 1.0))))
+ '(org-level-5 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
+ '(org-level-6 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
+ '(org-level-7 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
+ '(org-level-8 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif")))))
