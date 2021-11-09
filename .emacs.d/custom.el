@@ -58,7 +58,8 @@ static char *gnus-pointer[] = {
  '(inhibit-startup-screen t)
  '(org-tags-column -60)
  '(package-selected-packages
-   '(eldoc-box comment-tags ruby-refactor manage-minor-mode-table helm-lsp doom-modeline nimbus-theme 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode projectile pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package which-key yaml-mode yaml-tomato yard-mode))
+   '(highlight-indent-guides mode-icons paradox rainbow-mode rainbow-delimiters highlight-defined helm-tramp tramp-theme eldoc-box comment-tags ruby-refactor manage-minor-mode-table helm-lsp doom-modeline nimbus-theme 0blayout acme-theme afternoon-theme ahungry-theme alect-themes ample-zen-theme apropospriate-theme auto-complete auto-complete-rst autumn-light-theme better-defaults blacken butler color-theme-sanityinc-tomorrow elpy enh-ruby-mode flycheck-plantuml flycheck-pycheckers format-all hemisu-theme hybrid-reverse-theme immaterial-theme importmagic indent-tools jedi jenkins jenkinsfile-mode magit material-theme pippel plantuml-mode projectile pyimpsort python-black python-docstring python-mode rbtagger rubocop rubocopfmt ruby-electric ruby-extra-highlight ruby-test-mode ruby-tools rufo seeing-is-believing soft-stone-theme sphinx-doc sphinx-mode twilight-anti-bright-theme twilight-bright-theme twilight-theme use-package which-key yaml-mode yaml-tomato yard-mode))
+ '(paradox-automatically-star nil)
  '(pos-tip-background-color "#ffffff")
  '(pos-tip-foreground-color "#78909C")
  '(show-paren-mode t)
@@ -98,4 +99,5 @@ static char *gnus-pointer[] = {
  '(org-level-5 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
  '(org-level-6 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
  '(org-level-7 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
- '(org-level-8 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif")))))
+ '(org-level-8 ((t (:inherit default :weight bold :foreground "#AAB0AB" :family "Sans Serif"))))
+ '(paradox-mode-line-face ((t (:foreground "deep sky blue" :weight bold)))))
